@@ -9,6 +9,7 @@ const routes = {
 const methods = {
   GET: "get",
   GET_ALL: "getAll",
+  REPORT: "report",
   POST: "add",
 };
 
